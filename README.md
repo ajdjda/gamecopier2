@@ -1,6 +1,6 @@
 #bloxflip 
 free predictor
-copy this!
+copy everything beside this!
 and paste it in tampermonkey!
 
 
